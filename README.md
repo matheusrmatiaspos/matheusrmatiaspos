@@ -12,4 +12,4 @@
 - 🐀 Meu sobrenome é Rato.
 
 ## ⚠️ Aqui ficarão as atividades, listas, exercícios, projetos, dentre outras avalizações realizadas durante a minha jornada na pós-graduação.
-- 🧑🏻‍💻 Aqui o Meu GitHub com projetos pessoais [Clique Aqui▶️](https://github.com/matheusrmatias/matheusrmatias/);
+- 🧑🏻‍💻 Aqui o Meu GitHub com projetos pessoais [Clique Aqui▶️](https://github.com/matheusrmatias);
