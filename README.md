@@ -16,12 +16,16 @@
 
 ### 🏫 Grade
 
+**👉🏻 Clique na lupa (🔍) para buscar os projetos referentes aquela disciplina**
+
 <details>
     <summary>1º Semestre</summary>
-    | Sigla | Disciplina                  | Busca                                                              |
-    | ----- | --------------------------- | ------------------------------------------------------------------ |
-    | RIWS1 | Redes e Infraestrutura WEB  | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=RIWS1)|
-    | D1DBE | Desenvolvimento Back-End I  | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1DBE)|
-    | D1DFE | Desenvolvimento Front-End I | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1DFE)|
-    | D1BDA | Banco de Dados              | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1BDA)|
+
+| Sigla | Disciplina                  | Busca                                                              |
+| ----- | --------------------------- | ------------------------------------------------------------------ |
+| RIWS1 | Redes e Infraestrutura WEB  | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=RIWS1)|
+| D1DBE | Desenvolvimento Back-End I  | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1DBE)|
+| D1DFE | Desenvolvimento Front-End I | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1DFE)|
+| D1BDA | Banco de Dados              | [🔍](https://github.com/matheusrmatiaspos?tab=repositories&q=D1BDA)|
+
 </details>
